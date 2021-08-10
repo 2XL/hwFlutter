@@ -40,6 +40,9 @@ BL o C Pattern  => design Pattern
 - databases
 
 
+@flutter packages at 
+ - [pub.dev](pub.dev) 130 reliability cap 100% compatibility cap
+
 @localizations
 - internalization (24lang)
 ```yaml 
@@ -69,3 +72,45 @@ test('my test', (){
 
 
 ```
+
+@Dard Playground -> [DartPad](dartpad.dev)
+
+
+
+
+@Flutter navigation
+
+```
+declarative
+
+imperative
+```
+
+@Drawer
+
+@ListView
+a list that scrolls horizontally or vertically
+
+
+@Scaffold
+
+@Navigator -> stack 
+ .push(route)
+ .pop()
+ 
+ deck
+ 
+ 
+@State -> is information that can be used when the widget is build and might change during the lifetime of the widget
+
+Stateless -> does not a mutable state -> override build()
+Use when the UI depends on information in the object itself
+
+Stateful -> has mutable state -> override createState() -> return State() -> recursive function
+Use when the UI can change dynamically
+
+
+@null
+later
+?
+??
