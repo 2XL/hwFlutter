@@ -42,6 +42,7 @@ BL o C Pattern  => design Pattern
 
 @flutter packages at 
  - [pub.dev](pub.dev) 130 reliability cap 100% compatibility cap
+ 
 
 @localizations
 - internalization (24lang)
