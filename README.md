@@ -115,3 +115,7 @@ Use when the UI can change dynamically
 later
 ?
 ??
+
+
+# Saving Training DATA
+shared_preferences: ^2.0.6
