@@ -119,3 +119,28 @@ later
 
 # Saving Training DATA
 shared_preferences: ^2.0.6
+
+
+Scaffold
+
+Container ... [gist](bit.ly/basic_flutter)
+A widget that allows painting, positioning, and sizing
+
+containers [gist](bit.ly/fl_layout)
+
+Margin -> 
+```dart
+// default is pixels
+EdgeInsets.all(00.0)
+EdgeInsets.only(left:100.0)
+```
+Padding ->
+
+
+@Cupertino / Material
+if (Platform.isIOS || Platform.isAndroid) // Package::PlatformScaffold
+
+
+@Animations in Layouts
+Linear Hero Animation
+Radial Hero Animation
